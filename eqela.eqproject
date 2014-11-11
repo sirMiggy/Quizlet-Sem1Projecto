@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Quizlet
+#
+
+projectname: Quizlet
+vendorid: com.sirMiggy
+mainmodule: com.sirMiggy.quizlet
